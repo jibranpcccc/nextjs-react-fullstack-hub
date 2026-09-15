@@ -4,10 +4,17 @@
     <title>Next.js &amp; Modern React Full-Stack Hub</title>
     <link>https://nextjs-react-fullstack-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 10:46:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:02:19 GMT</lastBuildDate>
     <atom:link href="https://nextjs-react-fullstack-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                    <item>
+                        <item>
+      <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/webdev/</link>
+      <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-reddit-20260915-1-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 06:02:19 GMT</pubDate>
+      <description>Newly verified community added to Next.js &amp; Modern React Full-Stack Hub: A community dedicated to all things web development, client and server-side architectures, and UI/UX design.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/cpp High Performance Systems (Reddit)</title>
       <link>https://www.reddit.com/r/cpp/</link>
       <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-reddit-20260914-1-2026-09-14</guid>
