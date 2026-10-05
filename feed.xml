@@ -4,10 +4,17 @@
     <title>Next.js &amp; Modern React Full-Stack Hub</title>
     <link>https://nextjs-react-fullstack-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 06:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:02:49 GMT</lastBuildDate>
     <atom:link href="https://nextjs-react-fullstack-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                <item>
+                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-telegram-20261005-1-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 06:02:49 GMT</pubDate>
+      <description>Newly verified community added to Next.js &amp; Modern React Full-Stack Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-telegram-20261003-1-2026-10-03</guid>
