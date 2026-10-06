@@ -4,10 +4,17 @@
     <title>Next.js &amp; Modern React Full-Stack Hub</title>
     <link>https://nextjs-react-fullstack-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 06:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:02:56 GMT</lastBuildDate>
     <atom:link href="https://nextjs-react-fullstack-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                    <item>
+                                                                                        <item>
+      <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
+      <link>https://discuss.hashicorp.com</link>
+      <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-forum-20261006-1-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:02:56 GMT</pubDate>
+      <description>Newly verified community added to Next.js &amp; Modern React Full-Stack Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
       <link>https://t.me/cloud_native_hub</link>
       <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-telegram-20261005-1-2026-10-05</guid>
