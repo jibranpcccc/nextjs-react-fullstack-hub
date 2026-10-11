@@ -4,10 +4,17 @@
     <title>Next.js &amp; Modern React Full-Stack Hub</title>
     <link>https://nextjs-react-fullstack-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:02:37 GMT</lastBuildDate>
     <atom:link href="https://nextjs-react-fullstack-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
+      <link>https://discord.gg/tech</link>
+      <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-discord-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:02:37 GMT</pubDate>
+      <description>Newly verified community added to Next.js &amp; Modern React Full-Stack Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-reddit-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://nextjs-react-fullstack-hub.vercel.app/#nextjs-react-fullstack-hub-discord-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:31:09 GMT</pubDate>
       <description>Newly verified community added to Next.js &amp; Modern React Full-Stack Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
-    </item>
-<item>
-      <title>Next.js &amp; Modern React Full-Stack Hub Initial Release</title>
-      <link>https://nextjs-react-fullstack-hub.vercel.app/</link>
-      <pubDate>Wed, 09 Sep 2026 06:07:38 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
